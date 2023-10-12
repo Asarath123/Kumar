@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <head>
+
+        </head>
+        <body>
+         <fieldset>
+            <legend>person details</legend>
+           <label>salutation</label>
+            <br>
+
+             <select name=""id>
+                <option value="">None</option> 
+             </select>
+             <br>
+
+            <from>
+                <br>
+                <label for="fname">First name</label>
+                <input id="fname" name="first_name" type="text"required>
+                <br>
+                <br>
+                <label for="lname"> Last name</label>
+                <input id="lname" name="last_name" type="text"required>
+                <br>
+                <br>
+                <label  for="Gender"></label> Gender
+                <input type="radio" id="male">male 
+                <input type="radio" id="female">female
+                <br>
+                <br>
+            </from>
+            <br>
+            <label for=""> E-Mali</label>
+            <input id="">
+            <br>
+            
+            <br>
+            <label for=""> date of birth</label>
+            <input type="date">
+            <br>
+            <br>
+            
+            <label for="">address</label>
+            <br>
+            <input for="text">
+            
+            <br>
+            <br>
+            <input type="submit" value="submit">
+            
+        </body>
+        </html>
+        
